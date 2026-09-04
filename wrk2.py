@@ -1,0 +1,8 @@
+numbers=(10,)
+print(type(numbers))
+numbers=(10)
+print(type(numbers))
+num=(10,20,30,40,50)
+num=num+(60,70,80)
+print(num)
+print(num.count(1))
